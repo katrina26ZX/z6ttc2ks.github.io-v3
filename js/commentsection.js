@@ -64,15 +64,15 @@ $(document).ready(function(){
 	{"name" : "hurlxgod", "date":"June 8, 2021" , "body":"I purchased 5 different dumps from different sites but all dead and they didn’t do anything about it, a friend recommended this site and guess what? i made the best deal with them by purchase 5 dumps and they gave me guarantee of 72 hours and offer replacement policy. I was fucking happy the first dumps hit $4k bucks second was 5k and the 1 hit about 2k+. I can bet my balls on this team. I strongly recommend"},
 	{"name" : "monsterisreal", "date":"June 8, 2021" , "body":"I noticed cheap dumps are fake, i have paid for cheap dumps on several platforms and didn’t get anything and some gave me dead dumps. I contacted this site and they told me $110 for single purchase which i paid and good thing is it comes with 48 hours replacement policy. I have never seen such dedicated vendors. I am glad to say the dumps with pin i bought worked perfectly well. Thanks guys"},
 	{"name" : "Reese", "date":"June 10, 2021" , "body":"Your dumps are the best man!!!"},
-	{"name" : "Vincenttmx", "date":"June 10, 2021" , "body":"I have been with this team for about 2 years since from the days of freshstuff88 and cardingswipez dark web and they never disappointed me."},
-	{"name" : "Katherine", "date":"June 10, 2021" , "body":"You get the value of your money with this team. I strongly recommend."},
-	{"name" : "Demongod", "date":"June 10, 2021" , "body":"Since i have been in this game this is the first time i’m seeing a vendor having warranty with his dumps with a particular balance in it. I purchased 2 high balance cards Amex Centurion for $110 and Visa Black Card for $110 both hit the $5k they assured me on it. I bought another 1 which hit about 2k and got blocked and they gave me with another card. I am really impressed with this team. I’m with y’all for life"},
-	{"name" : "Yussi", "date":"June 10, 2021" , "body":"WTF i just hit $5k with your high balance dumps, i thought it’s a joke lol. paid 110$ and it gave me fucking 5k bucks. I’m sticking with y’all on this."},
-	{"name" : "Jayden", "date":"June 11, 2021" , "body":"I never knew such vendor exist, all fresh and guaranteed. I normally lost money dealing with my order seller for bad dumps but this dude right here give replacement. good customer relation. I’m gonna tell my guys about you"},
-	{"name" : "James", "date":"June 11, 2021" , "body":"Straight to business kinda guy. got good stuffs thou"},
-	{"name" : "kristy", "date":"June 11, 2021" , "body":"Ever since i have been purchasing dumps from this site it has always been as expected. i don’t regret buying your cards. I would recommend them to anyone."},
-	{"name" : "KingG", "date":"June 18, 2021" , "body":"I want to buy a dump with pin"},
-	
+	{"name" : "Vincenttmx", "date":"July 3, 2021" , "body":"I have been with this team for about 2 years since from the days of freshstuff88 and cardingswipez dark web and they never disappointed me."},
+	{"name" : "Katherine", "date":"July 10, 2021" , "body":"You get the value of your money with this team. I strongly recommend."},
+	{"name" : "Demongod", "date":"July 15, 2021" , "body":"Since i have been in this game this is the first time i’m seeing a vendor having warranty with his dumps with a particular balance in it. I purchased 2 high balance cards Amex Centurion for $110 and Visa Black Card for $110 both hit the $5k they assured me on it. I bought another 1 which hit about 2k and got blocked and they gave me with another card. I am really impressed with this team. I’m with y’all for life"},
+	{"name" : "Yussi", "date":"July 22, 2021" , "body":"WTF i just hit $5k with your high balance dumps, i thought it’s a joke lol. paid 110$ and it gave me fucking 5k bucks. I’m sticking with y’all on this."},
+	{"name" : "Jayden", "date":"August 11, 2021" , "body":"I never knew such vendor exist, all fresh and guaranteed. I normally lost money dealing with my order seller for bad dumps but this dude right here give replacement. good customer relation. I’m gonna tell my guys about you"},
+	{"name" : "James", "date":"August 11, 2021" , "body":"Straight to business kinda guy. got good stuffs thou"},
+	{"name" : "kristy", "date":"August 11, 2021" , "body":"Ever since i have been purchasing dumps from this site it has always been as expected. i don’t regret buying your cards. I would recommend them to anyone."},
+	{"name" : "KingG", "date":"August 18, 2021" , "body":"I want to buy a dump with pin"},
+	{"name" : "DemiGod", "date":"August 20, 2021" , "body":"Legit!! Thanks for being real, looking forward to do more business in the future"},
 	
 	
 	
